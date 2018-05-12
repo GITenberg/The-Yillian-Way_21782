@@ -1,0 +1,37 @@
+_repo: The-Yillian-Way_21782
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laumer, Keith
+    aliases:
+    - Laumer, John Keith
+    - Laumer, Kit
+    birthdate: 1925
+    deathdate: 1993
+    gutenberg_agent_id: '24817'
+    url: http://www.gutenberg.org/2009/agents/24817
+    wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
+description: The ceremonious protocol of the Yills was impressive, colorful, and,
+  in the long run, deadly! It was up to Jame Retief to figure out how to respond to
+  the Yill's overtures in the correct manner; all the while keeping his superiors
+  from making a deadly mistake. Only one man could think quickly enough to get the
+  job done!
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Retief (Fictitious character) -- Fiction'
+- !lcsh 'Short stories'
+title: The Yillian Way
+url: http://www.gutenberg.org/ebooks/21782
